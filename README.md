@@ -1,3 +1,2 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
-edit
+# PHILNITS REVIEW
+These are my notes and review materials used in preparation of the 2026 April PHILNITS FE exam. 
